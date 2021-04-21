@@ -24,6 +24,43 @@
 
 <br>
 
+## `사용된 도구`
+
+- Node.js - Chrome V8 자바스크립트 엔진으로 빌드된 자바스크립트 런타임
+- Express.js - Node.js 웹 애플리케이션 프레임워크
+- NPM - 자바 스크립트 패키지 관리자
+- PM2 - Express 앱용 프로세스 관리자
+- VSCode - 편집기
+- MySQL - DataBase
+- AWS EC2 - 클라우드 환경 컴퓨팅 시스템
+- AWS RDS - 클라우드 환경 데이터베이스 관리 시스템
+- AWS S3 - 클라우드 환경 데이터 저장소
+
+<br>
+
+## `온스 팀원 구성`
+
+- 기획 3명
+- 디자인 3명
+- 안드로이드 3명
+- iOS 4명
+- Server 3명
+
+<br>
+
+### :open_file_folder: `기능 명세서 및 역할 분담`
+
+![기능 명세](https://user-images.githubusercontent.com/55784772/87781603-eeb33800-c86b-11ea-9570-c3549c04fe34.PNG)
+
+<br>
+
+### `상세 업무 및 성과`
+
+- 예정
+
+
+<br>
+
 ## `ERD(Entity Relationship Diagram)`
 
 ![ERD](https://user-images.githubusercontent.com/55784772/87702220-18208500-c7d4-11ea-8e54-f83f972f1d83.PNG)
@@ -37,33 +74,11 @@
 
 ![스크린샷 2021-04-22 오전 12 54 02](https://user-images.githubusercontent.com/45676906/115583862-3e47f800-a305-11eb-8dde-f32c4788c49f.png)
 
-<br>
-
-## `사용된 도구`
-
-- Node.js - Chrome V8 자바스크립트 엔진으로 빌드된 자바스크립트 런타임
-- Express.js - Node.js 웹 애플리케이션 프레임워크
-- NPM - 자바 스크립트 패키지 관리자
-- PM2 - Express 앱용 프로세스 관리자
-- VsCode - 편집기
-- MySQL - DataBase
-- AWS EC2 - 클라우드 환경 컴퓨팅 시스템
-- AWS RDS - 클라우드 환경 데이터베이스 관리 시스템
-- AWS S3 - 클라우드 환경 데이터 저장소
 
 
 <br>
 
-## `팀원 구성`
-
-- 기획 3명
-- 디자인 3명
-- 안드로이드 3명
-- iOS 4명
-- Server 3명
-
-<br>
-
-## `OUNCE의 다른 프로젝트`
+## `OUNCE 프로젝트`
+- [SERVER](https://github.com/We-are-Ounce/OUNCE_Server)
 * [ANDROID](https://github.com/We-are-Ounce/OUNCE_Android)
 * [IOS](https://github.com/We-are-Ounce/OUNCE_iOS)
