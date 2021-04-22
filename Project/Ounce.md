@@ -26,15 +26,16 @@
 
 ## `사용된 도구`
 
-- Node.js - Chrome V8 자바스크립트 엔진으로 빌드된 자바스크립트 런타임
-- Express.js - Node.js 웹 애플리케이션 프레임워크
-- NPM - 자바 스크립트 패키지 관리자
-- PM2 - Express 앱용 프로세스 관리자
-- VSCode - 편집기
-- MySQL - DataBase
-- AWS EC2 - 클라우드 환경 컴퓨팅 시스템
-- AWS RDS - 클라우드 환경 데이터베이스 관리 시스템
-- AWS S3 - 클라우드 환경 데이터 저장소
+- [Node.js]() - Chrome V8 자바스크립트 엔진으로 빌드된 자바스크립트 런타임
+- [Express.js]() - Node.js 웹 애플리케이션 프레임워크
+- [NPM]() - 자바 스크립트 패키지 관리자
+- [PM2]() - Express 앱용 프로세스 관리자
+- [VSCode]() - 편집기
+- [MySQL]() - DataBase
+- [JWT]() - 토큰기반 인증
+- [AWS EC2]() - 클라우드 환경 컴퓨팅 시스템
+- [AWS RDS]() - 클라우드 환경 데이터베이스 관리 시스템
+- [AWS S3]() - 클라우드 환경 데이터 저장소
 
 <br>
 
