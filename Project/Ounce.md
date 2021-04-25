@@ -76,6 +76,14 @@
 ![스크린샷 2021-04-22 오전 12 54 02](https://user-images.githubusercontent.com/45676906/115583862-3e47f800-a305-11eb-8dde-f32c4788c49f.png)
 
 
+<br>
+
+## `기여자`
+
+- [정효원](https://github.com/Jeong-Hyowon)
+- [손예지](https://github.com/yezgoget)
+- [최정균](https://github.com/wjdrbs96)
+
 
 <br>
 
