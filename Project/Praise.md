@@ -21,7 +21,7 @@
 
 ### `사용한 도구`
 
-- [JavaScript] - 객체 기반의 스크립트 프로그래밍 언어
+- [JavaScript]() - 객체 기반의 스크립트 프로그래밍 언어
 - [Node.js]() - Chrome V8 자바스크립트 엔진으로 빌드된 자바스크립트 런타임
 - [Express.js]() - Nodejs 웹 애플리케이션 프레임워크
 - [NPM]()  - 자바스크립트 패키지 관리자
@@ -91,16 +91,10 @@ FireBase Cloud Messasing을 이용해서 Push 알람을 구현하였습니다.
 
 ## `서버 아키텍쳐`
 
-![스크린샷 2021-04-23 오전 2 27 08](https://user-images.githubusercontent.com/45676906/115759620-6ace4380-a3db-11eb-8b46-7c427598cc16.png)
+![스크린샷 2021-04-30 오전 9 50 26](https://user-images.githubusercontent.com/45676906/116635342-80260d80-a999-11eb-93c5-682e2956e33a.png)
+
 
 <br>
-
-<br>
-
-## `칭찬할 고래 프로젝트`
-
-- [Server](https://github.com/Praise-Whale/Praise-Server)
-- [Android](https://github.com/Praise-Whale/Praise-Whale-AOS)
 
 <br>
 
@@ -108,3 +102,10 @@ FireBase Cloud Messasing을 이용해서 Push 알람을 구현하였습니다.
 
 - ### [최정균](https://github.com/wjdrbs96)
 - ### [최다인](https://github.com/Chedda98)
+
+<br>
+
+## `칭찬할 고래 프로젝트`
+
+- ### [Server](https://github.com/Praise-Whale/Praise-Server)
+- ### [Android](https://github.com/Praise-Whale/Praise-Whale-AOS)
