@@ -22,13 +22,13 @@
 
 ### `사용한 도구`
 
-- [JavaScript] - 객체 기반의 스크립트 프로그래밍 언어
+- [JavaScript]() - 객체 기반의 스크립트 프로그래밍 언어
 - [Node.js]() - Chrome V8 자바스크립트 엔진으로 빌드된 자바스크립트 런타임
 - [Express.js]() - Nodejs 웹 애플리케이션 프레임워크
 - [NPM]()  - 자바스크립트 패키지 관리자
 - [PM2]() - Express 앱용 프로세스 관리자
 - [MySQL]() - DataBase
-- [Sequelize]() - DataBase ORM
+- [SOCKET.IO]()
 - [JWT]() - 토큰기반 인증
 - [FCM]() - Firebase Cloud Messaging
 - [AWS EC2]() - 클라우드 환경 컴퓨팅 시스템
@@ -69,8 +69,3 @@ KAKAO BOOK API를 연동해서 책 검색 API를 만들었습니다.
 
 ```
 ```
-
-
-<br>
-
-- ### `
